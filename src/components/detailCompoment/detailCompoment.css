@@ -1,0 +1,7 @@
+.group:hover .group-hover\:opacity-100 {
+    opacity: 1;
+  }
+  
+  .transition-opacity {
+    transition: opacity 0.3s;
+  }

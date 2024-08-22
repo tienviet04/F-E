@@ -1,0 +1,7 @@
+.swiper-pagination-bullet {
+  background: gray;
+}
+
+.swiper-pagination-bullet-active {
+  background: red;
+}

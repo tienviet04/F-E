@@ -1,0 +1,23 @@
+/* .head{
+    background-image: url("src/images/SubContainer.png");
+} */
+.shadows {
+  color: #282727;
+  box-shadow: 0px 0px 10px;
+}
+#my_header {
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+  top: 0;
+  transition: top 0.3s;
+}
+/* .sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 50;
+  background-color: #000;
+} */
+
+/* Responsive styles */

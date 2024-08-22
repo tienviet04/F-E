@@ -1,0 +1,1083 @@
+[{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545a3"
+  },
+  "name": "Rafa Márquez: Đội Trưởng",
+  "slug": "rafa-marquez-doi-truong",
+  "origin_name": "Rafa Márquez: El Capitán",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240625-1/7f845527020003343c53d4c79abedea5.jpg",
+  "genres": [
+    {
+      "$oid": "667a1ed70393fb2c1ea545a1"
+    }
+  ],
+  "category": {
+    "$oid": "667a1ed70393fb2c1ea545a1"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240625-1/94fb36f4f21e8cf716081fd1eb37ae6b.jpg",
+  "chieurap": "",
+  "time": "82 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.117Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:09.570Z"
+  },
+  "actor": [
+    "Rafael Márquez",
+    "Jaydy Michel",
+    "Xavi Hernández",
+    "Samuel Eto&#039;o",
+    "Carles Puyol",
+    "David Faitelson",
+    "Jared Borgetti"
+  ],
+  "content": "Hậu vệ người Mexico kể lại những chiến thắng và thất bại trong giới bóng đá và nhiều việc khác, tiết lộ góc nhìn đầy gần gũi về ước mơ, ngã rẽ và quyết tâm của anh.",
+  "director": [
+    "Carlos Armella"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Rafa Márquez: Đội Trưởng - Rafa Márquez: El Capitán - 2024 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240625/Oh1LMT7i/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240625/Oh1LMT7i/index.m3u8",
+          "_id": {
+            "$oid": "667bf405077f623fe4bbc067"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf405077f623fe4bbc066"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545a7"
+  },
+  "name": "Tôi Là Vợ Của Anh",
+  "slug": "toi-la-vo-cua-anh",
+  "origin_name": "I'm Your Woman",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/ce789e9a294992f95f3c58beeea9df21.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b44e"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b44e"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/4baaaecabf00538ee54905ce0f359017.jpg",
+  "chieurap": "",
+  "time": "120 phút",
+  "lang": "Vietsub",
+  "year": 2020,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:10.492Z"
+  },
+  "actor": [
+    "Rachel Brosnahan",
+    "Marsha Stephanie Blake",
+    "Arinzé Kene",
+    "Bill Heck",
+    "Frankie Faison",
+    "Marceline Hugot",
+    "James McMenamin",
+    "Jameson Charles",
+    "Justin Charles",
+    "Barrett Shaffer",
+    "Da&#039;mauri Parks",
+    "Jarrod DiGiorgi",
+    "Mary Rawson",
+    "Anita Rodriguez",
+    "Alison Weisgall",
+    "Nata"
+  ],
+  "content": "Bộ phim lấy bối cảnh những năm 1970 này, một người phụ nữ trẻ buộc phải chạy trốn khỏi chồng của mình sau khi người đàn ông ấy phản bội cô và đẩy đứa con bé bỏng của cô vào một tình huống cực kì nguy hiểm.",
+  "director": [
+    "Julia Hart"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Tôi Là Vợ Của Anh - I'm Your Woman - 2020 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/gIOceIQt/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/gIOceIQt/index.m3u8",
+          "_id": {
+            "$oid": "667bf406077f623fe4bbc06f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf406077f623fe4bbc06e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545ae"
+  },
+  "name": "Rừng Hiến Tế",
+  "slug": "rung-hien-te",
+  "origin_name": "Gaia",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20231110-1/6b69b241a1cbe751ccb8da847d83e2cf.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b463"
+    },
+    {
+      "$oid": "667a1ed70393fb2c1ea545ac"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b463"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20231110-1/9c92f1294d6271c1a0a45d46072077f7.jpg",
+  "chieurap": "",
+  "time": "97 phút",
+  "lang": "Vietsub",
+  "year": 2021,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:11.192Z"
+  },
+  "actor": [
+    "Monique Rockman",
+    "Carel Nel",
+    "Alex van Dyk",
+    "Anthony Oseyemi",
+    "Elaine Apruzzese"
+  ],
+  "content": "Một nhân viên kiểm lâm bị thương trong một nhiệm vụ thường lệ được cứu bởi hai người sống sót. Những gì ban đầu là một cuộc giải cứu được chào đón trở nên đáng ngờ hơn khi cậu con trai và người cha phản bội của mình tiết lộ một lòng sùng kính đối với khu rừng.",
+  "director": [
+    "Jaco Bouwer"
+  ],
+  "status": "completed",
+  "quality": "HD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Rừng Hiến Tế - Gaia - 2021 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/9VfNhyV5/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/9VfNhyV5/index.m3u8",
+          "_id": {
+            "$oid": "667bf407077f623fe4bbc078"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf407077f623fe4bbc077"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545b2"
+  },
+  "name": "Người Da Đen Phép Thuật",
+  "slug": "nguoi-da-den-phep-thuat",
+  "origin_name": "The American Society of Magical Negroes",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/7e341b027b63c2fc762df142c5b1b6e3.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b445"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b43c"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b445"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/443eabbb396cda1534136a6c0fe6ff7d.jpg",
+  "chieurap": "",
+  "time": "105 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:11.905Z"
+  },
+  "actor": [
+    "Justice Smith",
+    "David Alan Grier",
+    "An-Li Bogan",
+    "Drew Tarver",
+    "Michaela Watkins",
+    "Aisha Hinds",
+    "Tim Baltz",
+    "Rupert Friend",
+    "Nicole Byer",
+    "Zachary Barton",
+    "Anthony Coons",
+    "Robbie Troy",
+    "Gillian Vigman",
+    "James E. Welsh",
+    "Mia Ford",
+    "Eric Lutz",
+    "Kees DeVos",
+    "Aaron Coleman",
+    "Ch"
+  ],
+  "content": "Trong nhiều thế kỷ, đã có một xã hội ẩn mình, hoạt động bí mật để bảo vệ người Da đen khỏi bị tổn hại. Và khi chàng trai trẻ Aren được tuyển vào, anh chàng có thể gây ra những xáo trộn thậm chí gây tổn hại đến mối tình mới chớm nở của mình.",
+  "director": [
+    "Kobi Libii"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Người Da Đen Phép Thuật - The American Society of Magical Negroes - 2024 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/W0w2M5jD/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/W0w2M5jD/index.m3u8",
+          "_id": {
+            "$oid": "667bf407077f623fe4bbc080"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf407077f623fe4bbc07f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545b8"
+  },
+  "name": "Mắt Cầu Vồng",
+  "slug": "mat-cau-vong",
+  "origin_name": "Rainbow Eyes",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/d429e7c7adb527463bd1e553020f2bc4.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b450"
+    },
+    {
+      "$oid": "667a1ed70393fb2c1ea545b6"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b450"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/05c0522b51b4fd7bdeea41b0a4695b79.jpg",
+  "chieurap": "",
+  "time": "99 phút",
+  "lang": "Vietsub",
+  "year": 2007,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:13.397Z"
+  },
+  "actor": [
+    "김강우",
+    "김규리",
+    "이수경",
+    "박원상",
+    "Jeon Chang-geol",
+    "최덕문",
+    "김성령",
+    "김유정"
+  ],
+  "content": "Kyeong Joon và Eun Joo điều tra một vụ giết người ghê rợn mà nạn nhân là một doanh nhân giàu có, bị đâm hơn 20 nhát, máu loang lổ khắp nơi. Kẻ giết người đã cẩn thận không để lại bất kỳ bằng chứng buộc tội nào, nhưng một sợi tóc đã được tìm thấy. Cảnh sát có thể xác định rằng kẻ giết người là nam và có nhóm máu AB.Không lâu sau đó tiếp tục xảy ra vụ giết người thứ hai. Các nạn nhân dường như không liên quan đến nhau, nhưng phương thức giết người lại giống hệt nhau. Khi cảnh sát nghiên cứu sâu hơn về thân thế của các nạn nhân, họ phát hiện ra rằng hai nạn nhân đều thuộc cùng một căn cứ quân sự từ nhiều năm trước. Một tháng trước khi xuất ngũ, họ được chuyển tới một căn cứ khác cùng với một người thứ ba tên Jay Bae. Cảnh sát tin rằng Jay Bae có thể là nạn nhân tiếp theo hoặc kẻ giết người. Cuộc điều tra của họ mới chỉ bắt đầu.",
+  "director": [
+    "양윤호"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Mắt Cầu Vồng - Rainbow Eyes - 2007 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/7UB2wPWv/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/7UB2wPWv/index.m3u8",
+          "_id": {
+            "$oid": "667bf409077f623fe4bbc088"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf409077f623fe4bbc087"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545bc"
+  },
+  "name": "Giải Thoát",
+  "slug": "giai-thoat",
+  "origin_name": "Deliverance",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/1a962c5ef036984782753df39187eb6d.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b458"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/b3000d30853817e7f9e0e3c1203ba1fa.jpg",
+  "chieurap": "",
+  "time": "106 phút",
+  "lang": "Vietsub",
+  "year": 2022,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:14.136Z"
+  },
+  "actor": [
+    "Simon Yam",
+    "Ron Ng",
+    "Justin Cheung"
+  ],
+  "content": "Dần dần bám víu vào ký ức vụn vỡ về đêm mẹ mất. Nỗi đau mà một gia đình tan vỡ phải chịu bất ngờ được khơi dậy khi họ mong muốn kết nối lại với những ký ức.",
+  "director": [
+    "Kelvin Shum"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Giải Thoát - Deliverance - 2022 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/DvoA9yhl/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/DvoA9yhl/index.m3u8",
+          "_id": {
+            "$oid": "667bf40a077f623fe4bbc090"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf40a077f623fe4bbc08f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545c2"
+  },
+  "name": "Đừng gọi tôi là \"Thần Bài\"",
+  "slug": "dung-goi-toi-la-than-bai",
+  "origin_name": "One More Chance",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/a624e911140fa94d6fb144cc1caabf98.jpg",
+  "genres": [
+    {
+      "$oid": "667a1ed70393fb2c1ea545c0"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "667a1ed70393fb2c1ea545c0"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/62f68bd2614caab49edce1b1fd4b16af.jpg",
+  "chieurap": "",
+  "time": "114 phút",
+  "lang": "Vietsub",
+  "year": 2023,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:14.794Z"
+  },
+  "actor": [
+    "Chow Yun-fat",
+    "Will Or",
+    "Anita Yuen",
+    "Alex Fong",
+    "Liu Kai-Chi",
+    "Andy On",
+    "Michael Ning",
+    "Kenny Wong Tak-Ban",
+    "Calvin Choi Yat-Chi",
+    "Amy Lo",
+    "Ivana Wong",
+    "Pauline Yeung Yung-Lin",
+    "Henry Fong"
+  ],
+  "content": "One More Chance, trước đây có tên Be Water, My Friend, là một bộ phim chính kịch hài hước của Hồng Kông năm 2023 do Anthony Pun đạo diễn và Châu Nhuận Phát đóng vai chính trong vai một tay cờ bạc bệnh hoạn đang tìm cách giao tiếp và kết nối với cậu con trai mắc chứng tự kỷ của mình.",
+  "director": [
+    "Anthony Pun Yiu-Ming"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Đừng gọi tôi là \"Thần Bài\" - One More Chance - 2023 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/Qhoghcui/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/Qhoghcui/index.m3u8",
+          "_id": {
+            "$oid": "667bf40a077f623fe4bbc098"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf40a077f623fe4bbc097"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545c6"
+  },
+  "name": "Duy Hòa Phòng Bạo Đội",
+  "slug": "duy-hoa-phong-bao-doi",
+  "origin_name": "Formed Police Unit",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/a835357ff3ff81c280acd62de04e9d03.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b452"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/fdc8e9b0fabd2b9247cfac9c651173ca.jpg",
+  "chieurap": "",
+  "time": "101 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:15.858Z"
+  },
+  "actor": [
+    "黃景瑜",
+    "王一博",
+    "鍾楚曦",
+    "歐豪",
+    "Zhu Yawen",
+    "Jason Koo",
+    "Zhao Huawei",
+    "Bai Narisu",
+    "Yu Peishan",
+    "Kevin Lee",
+    "Liu Xue",
+    "Nan Fu Long",
+    "Yin Xiaotian",
+    "Joyce Feng",
+    "Sun Yihan",
+    "Li Mincheng",
+    "Linyan Jiang",
+    "Nwachukwu Kennedy Chukwuebuka",
+    "Ling Chen",
+    "Wei Chong",
+    "Gao Shuqiao",
+    "Dmitry Antonov"
+  ],
+  "content": "Phim tập trung vào những khoảnh khắc sinh tử ít ai biết của lực lượng cảnh sát gìn giữ hòa bình Trung Quốc! Theo yêu cầu của Liên hợp quốc và được nhà nước cử đi, các sĩ quan cảnh sát gìn giữ hòa bình gánh vác sứ mệnh thiêng liêng ra nước ngoài thực hiện nhiệm vụ gìn giữ hòa bình ở những vùng truyền giáo bị chiến tranh tàn phá. Họ sẽ phải đối mặt với các cuộc tấn công khủng bố, bạo loạn vũ trang, băng nhóm và các tình huống nguy hiểm khác, hoạt động gìn giữ hòa bình không thể trì hoãn…",
+  "director": [
+    "Lee Tat-Chiu"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Duy Hòa Phòng Bạo Đội - Formed Police Unit - 2024 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240624/kfgnkVM0/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240624/kfgnkVM0/index.m3u8",
+          "_id": {
+            "$oid": "667bf40b077f623fe4bbc0a0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf40b077f623fe4bbc09f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545c9"
+  },
+  "name": "Basma",
+  "slug": "basma",
+  "origin_name": "Basma",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/fc3ce83d77c12302f09914c2d63024e3.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/1970efa1d627dbf33351e669801b146f.jpg",
+  "chieurap": "",
+  "time": "105 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T08:20:33.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1ed70393fb2c1ea545cc"
+  },
+  "name": "Anime Bá Quyền",
+  "slug": "anime-ba-quyen",
+  "origin_name": "Anime Supremacy",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/3bb3ddd2810475e38e6e91d30856bc59.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/26ebab4f1dacd86a7115d6e940c340aa.jpg",
+  "chieurap": "",
+  "time": "129 phút",
+  "lang": "Vietsub",
+  "year": 2022,
+  "createdAt": {
+    "$date": "2024-06-25T01:35:19.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T08:20:34.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa48"
+  },
+  "name": "Rafa Márquez: Đội Trưởng",
+  "slug": "rafa-marquez-doi-truong",
+  "origin_name": "Rafa Márquez: El Capitán",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240625-1/7f845527020003343c53d4c79abedea5.jpg",
+  "genres": [
+    {
+      "$oid": "667a1ed70393fb2c1ea545a1"
+    }
+  ],
+  "category": {
+    "$oid": "667a1ed70393fb2c1ea545a1"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240625-1/94fb36f4f21e8cf716081fd1eb37ae6b.jpg",
+  "chieurap": "",
+  "time": "82 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa4c"
+  },
+  "name": "Tôi Là Vợ Của Anh",
+  "slug": "toi-la-vo-cua-anh",
+  "origin_name": "I'm Your Woman",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/ce789e9a294992f95f3c58beeea9df21.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b44e"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b44e"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/4baaaecabf00538ee54905ce0f359017.jpg",
+  "chieurap": "",
+  "time": "120 phút",
+  "lang": "Vietsub",
+  "year": 2020,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa51"
+  },
+  "name": "Rừng Hiến Tế",
+  "slug": "rung-hien-te",
+  "origin_name": "Gaia",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20231110-1/6b69b241a1cbe751ccb8da847d83e2cf.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b463"
+    },
+    {
+      "$oid": "667a1ed70393fb2c1ea545ac"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b463"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20231110-1/9c92f1294d6271c1a0a45d46072077f7.jpg",
+  "chieurap": "",
+  "time": "97 phút",
+  "lang": "Vietsub",
+  "year": 2021,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa55"
+  },
+  "name": "Người Da Đen Phép Thuật",
+  "slug": "nguoi-da-den-phep-thuat",
+  "origin_name": "The American Society of Magical Negroes",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/7e341b027b63c2fc762df142c5b1b6e3.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b445"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b43c"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b445"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/443eabbb396cda1534136a6c0fe6ff7d.jpg",
+  "chieurap": "",
+  "time": "105 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa59"
+  },
+  "name": "Mắt Cầu Vồng",
+  "slug": "mat-cau-vong",
+  "origin_name": "Rainbow Eyes",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/d429e7c7adb527463bd1e553020f2bc4.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b450"
+    },
+    {
+      "$oid": "667a1ed70393fb2c1ea545b6"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b450"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/05c0522b51b4fd7bdeea41b0a4695b79.jpg",
+  "chieurap": "",
+  "time": "99 phút",
+  "lang": "Vietsub",
+  "year": 2007,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa5d"
+  },
+  "name": "Giải Thoát",
+  "slug": "giai-thoat",
+  "origin_name": "Deliverance",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/1a962c5ef036984782753df39187eb6d.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b458"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/b3000d30853817e7f9e0e3c1203ba1fa.jpg",
+  "chieurap": "",
+  "time": "106 phút",
+  "lang": "Vietsub",
+  "year": 2022,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa61"
+  },
+  "name": "Đừng gọi tôi là \"Thần Bài\"",
+  "slug": "dung-goi-toi-la-than-bai",
+  "origin_name": "One More Chance",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/a624e911140fa94d6fb144cc1caabf98.jpg",
+  "genres": [
+    {
+      "$oid": "667a1ed70393fb2c1ea545c0"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "667a1ed70393fb2c1ea545c0"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/62f68bd2614caab49edce1b1fd4b16af.jpg",
+  "chieurap": "",
+  "time": "114 phút",
+  "lang": "Vietsub",
+  "year": 2023,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa65"
+  },
+  "name": "Duy Hòa Phòng Bạo Đội",
+  "slug": "duy-hoa-phong-bao-doi",
+  "origin_name": "Formed Police Unit",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/a835357ff3ff81c280acd62de04e9d03.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b452"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/fdc8e9b0fabd2b9247cfac9c651173ca.jpg",
+  "chieurap": "",
+  "time": "101 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa68"
+  },
+  "name": "Basma",
+  "slug": "basma",
+  "origin_name": "Basma",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/fc3ce83d77c12302f09914c2d63024e3.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/1970efa1d627dbf33351e669801b146f.jpg",
+  "chieurap": "",
+  "time": "105 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667a1fb79bf1fc7cb69faa6b"
+  },
+  "name": "Anime Bá Quyền",
+  "slug": "anime-ba-quyen",
+  "origin_name": "Anime Supremacy",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240624-1/3bb3ddd2810475e38e6e91d30856bc59.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240624-1/26ebab4f1dacd86a7115d6e940c340aa.jpg",
+  "chieurap": "",
+  "time": "129 phút",
+  "lang": "Vietsub",
+  "year": 2022,
+  "createdAt": {
+    "$date": "2024-06-25T01:39:03.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T01:39:03.477Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667b9e3d5f1f97573c032267"
+  },
+  "type": "",
+  "poster_url": "https://img.phimapi.com/undefined",
+  "genres": [],
+  "category": null,
+  "thumb_url": "https://img.phimapi.com/undefined",
+  "chieurap": "",
+  "createdAt": {
+    "$date": "2024-06-26T04:51:09.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T04:51:44.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667b9faa76e92c630693cd5d"
+  },
+  "name": "AR Vật Ngữ: Xin Đừng Giết Tôi",
+  "slug": "ar-vat-ngu-xin-dung-giet-toi",
+  "origin_name": "AR Story (DONTKILLME)",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240625-1/cdd9f8744300ee036ad93b1294cb13f0.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b447"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b471"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b473"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b458"
+    },
+    {
+      "$oid": "6678f985d701f74d2747b450"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b447"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240625-1/db62960a331b206e3b68631bcaf5566e.jpg",
+  "chieurap": "",
+  "time": "80 phút",
+  "lang": "Vietsub",
+  "year": 2024,
+  "createdAt": {
+    "$date": "2024-06-26T04:57:14.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:08.086Z"
+  },
+  "actor": [
+    "Xiao Yin",
+    "Owodog Chuang"
+  ],
+  "content": "Bộ phim này được chuyển thể từ tiểu thuyết &quot;Đừng giết tôi&quot; của nữ hoàng trinh thám Nhật Bản, Natsuki Shizuko. Để giành lại tình yêu của vợ mình là Syndica, Trương Hiểu Long sử dụng công nghệ AR để tích hợp liền mạch thông tin từ thế giới thực với thế giới ảo. Anh đã thành công trong việc chuyển đổi thông tin thế giới ảo được thiết kế trước thành ký ức thực sự của Syndica, từ đó thay đổi thành công quyết định cảm xúc của cô. Tuy nhiên, trong kế hoạch của Trương Hiểu Long tồn tại một lỗi nghiêm trọng. Anh không tính đến sự phản bội của con người, dẫn đến việc vợ anh là Syndica bị người bạn thân nhất của cô là Hình Ba bí mật bắt cóc. Trong quá trình giải cứu vợ mình, Trương Hiểu Long buộc phải “tiết lộ” tất cả bí mật trước đây của mình, đẩy mối quan hệ của anh và Syndica một lần nữa đến bờ vực sinh tử.",
+  "director": [
+    "Xu Jia-Hui"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "AR Vật Ngữ: Xin Đừng Giết Tôi - AR Story (DONTKILLME) - 2024 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240625/eBm6GI7T/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240625/eBm6GI7T/index.m3u8",
+          "_id": {
+            "$oid": "667bf404077f623fe4bbc059"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf404077f623fe4bbc058"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667b9fac76e92c630693cd61"
+  },
+  "name": "Tiệc Tại Gia",
+  "slug": "tiec-tai-gia",
+  "origin_name": "House Party",
+  "type": "single",
+  "poster_url": "https://img.phimapi.com/upload/vod/20240625-1/d07937674905eef1e989c25a61696a8d.jpg",
+  "genres": [
+    {
+      "$oid": "6678f985d701f74d2747b445"
+    }
+  ],
+  "category": {
+    "$oid": "6678f985d701f74d2747b445"
+  },
+  "thumb_url": "https://img.phimapi.com/upload/vod/20240625-1/73891b15274a121f7b27c591661e3b03.jpg",
+  "chieurap": "",
+  "time": "100 phút",
+  "lang": "Vietsub",
+  "year": 2023,
+  "createdAt": {
+    "$date": "2024-06-26T04:57:16.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T10:57:08.867Z"
+  },
+  "actor": [
+    "Jacob Latimore",
+    "Tosin Cole",
+    "Karen Obilom"
+  ],
+  "content": "Những người quảng bá câu lạc bộ đầy tham vọng và những người bạn tốt nhất Damon (Tosin Cole) và Kevin (Jacob Latimore) hầu như không giữ được mọi thứ với nhau. Hết tiền, hết vận may và sắp mất mái nhà - và mới bị sa thải khỏi công việc lau dọn nhà cửa tầm thường - cặp đôi cần một khoản tiền lớn để giải quyết vấn đề của họ. Trong một cái quái gì vậy? di chuyển, họ quyết định tổ chức bữa tiệc của năm tại một biệt thự độc quyền, nơi họ làm công việc dọn dẹp cuối cùng, nơi tình cờ thuộc về không ai khác ngoài LeBron James. Không cho phép? Không vấn đề gì. Điều gì có thể đi sai? Còn về một DJ du hành thời gian, an ninh không đáng tin cậy, một danh sách khách mời bỏ trốn, một chiếc Lamborghini mượn, những người quảng cáo đối thủ tức giận, một chiếc nhẫn vô địch bị đánh cắp, thiệt hại tài sản leo thang, một con gấu túi tức giận..? Nhưng cũng, một chuyến đi kỳ quặc được xếp chồng lên nhau với những vai khách mời kép và những bản nhạc hồi tưởng vượt thời gian, bộ phim hài được xếp hạng R và hai người bạn đáng để cổ vũ... bạn phải xem mới tin được. Xét cho cùng, một đêm như thế này không đến hơn một lần.",
+  "director": [
+    "Calmatic"
+  ],
+  "status": "completed",
+  "quality": "FHD",
+  "serverData": [
+    {
+      "server_data": [
+        {
+          "name": "Full",
+          "slug": "full",
+          "filename": "Tiệc Tại Gia - House Party - 2023 - 1080p - Vietsub - Full",
+          "link_embed": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240625/JyKFWnDF/index.m3u8",
+          "link_m3u8": "https://s3.phim1280.tv/20240625/JyKFWnDF/index.m3u8",
+          "_id": {
+            "$oid": "667bf404077f623fe4bbc060"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "667bf404077f623fe4bbc05f"
+      }
+    }
+  ]
+}]
