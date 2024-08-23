@@ -17,7 +17,7 @@ const Carouseled: React.FC = () => {
   useEffect(() => {
     const fetchGenres = async () => {
       try {
-        const response = await axios.get('http://localhost:3000/genres');
+        const response = await axios.get('https://be-b9uw.onrender.com/genres');
         setGenres(response.data.data);
       } catch (error) {
         console.error('Error fetching genres:', error);

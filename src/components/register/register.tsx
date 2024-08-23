@@ -36,7 +36,7 @@ const RegisterComponent = () => {
     // }
 
     try {
-      const response = await axios.post("http://localhost:3000/user/register", data);
+      const response = await axios.post("https://be-b9uw.onrender.com/user/register", data);
       if (response.status === 200) {
         toast.success("Đăng ký thành công!");
         setTimeout(() => {

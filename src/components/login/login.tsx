@@ -30,7 +30,7 @@ export default function LoginConponent() {
     // }
 
     try {
-      const response = await axios.post("http://localhost:3000/user/login", data);
+      const response = await axios.post("https://be-b9uw.onrender.com/user/login", data);
       if (response.status === 200) {
         localStorage.setItem("token", response.data.token);
         localStorage.setItem("user", JSON.stringify(response.data.user));

@@ -28,7 +28,7 @@ const MoviesProvider: React.FC<MoviesProviderProps> = ({ children }) => {
     useEffect(() => {
         const fetchAllMovies = async () => {
             try {
-                const response = await axios.get("http://localhost:3000/all");
+                const response = await axios.get("https://be-b9uw.onrender.com/all");
                 setMovies(response.data.data);
             } catch (error) {
                 console.error("Error fetching Movies:", error);
