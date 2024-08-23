@@ -14,47 +14,47 @@ const Carouseled: React.FC = () => {
   const { setMovies, setGenreName } = useContext(MoviesContext);
   const navigate = useNavigate();
 
-  // useEffect(() => {
-  //   const fetchGenres = async () => {
-  //     try {
-  //       const response = await axios.get('http://localhost:3000/genres');
-  //       setGenres(response.data.data);
-  //     } catch (error) {
-  //       console.error('Error fetching genres:', error);
-  //     }
-  //   };
+  useEffect(() => {
+    const fetchGenres = async () => {
+      try {
+        const response = await axios.get('http://localhost:3000/genres');
+        setGenres(response.data.data);
+      } catch (error) {
+        console.error('Error fetching genres:', error);
+      }
+    };
 
-  //   fetchGenres();
-  // }, []);
+    fetchGenres();
+  }, []);
 
-  // const handleGenreClick = async (genreId: string, genreName: string) => {
-  //   setGenreName(genreName);
-  //   localStorage.setItem('selectedCategoryId', genreId);
-  //   localStorage.setItem('categoryName', genreName);
+  const handleGenreClick = async (genreId: string, genreName: string) => {
+    setGenreName(genreName);
+    localStorage.setItem('selectedCategoryId', genreId);
+    localStorage.setItem('categoryName', genreName);
 
-  //   try {
-  //     let currentPage = 1;
-  //     const allMovies: IMovies[] = [];
+    try {
+      let currentPage = 1;
+      const allMovies: IMovies[] = [];
 
-  //     while (true) {
-  //       const response = await axios.get(`http://localhost:3000/all?genre=${genreId}&page=${currentPage}`);
-  //       const data = response.data;
+      while (true) {
+        const response = await axios.get(`http://localhost:3000/all?genre=${genreId}&page=${currentPage}`);
+        const data = response.data;
 
-  //       allMovies.push(...data.data);  // Gộp phim vào mảng allMovies
+        allMovies.push(...data.data);  // Gộp phim vào mảng allMovies
 
-  //       if (currentPage >= data.totalPages) {
-  //         break;  // Nếu đã lấy hết các trang, dừng lại
-  //       }
+        if (currentPage >= data.totalPages) {
+          break;  // Nếu đã lấy hết các trang, dừng lại
+        }
 
-  //       currentPage++;  // Chuyển sang trang tiếp theo
-  //     }
+        currentPage++;  // Chuyển sang trang tiếp theo
+      }
 
-  //     setMovies(allMovies);  // Cập nhật danh sách phim vào MoviesContext
-  //     navigate('/category');
-  //   } catch (error) {
-  //     console.error('Error fetching movies by genre:', error);
-  //   }
-  // };
+      setMovies(allMovies);  // Cập nhật danh sách phim vào MoviesContext
+      navigate('/category');
+    } catch (error) {
+      console.error('Error fetching movies by genre:', error);
+    }
+  };
 
   return (
     <div className="w-full relative">
